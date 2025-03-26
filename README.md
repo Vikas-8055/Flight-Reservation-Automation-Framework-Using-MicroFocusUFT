@@ -50,12 +50,4 @@ Hit Run.
 
 Observe test output and screenshots.
 
-👨‍💻 Team Members
-Group 4, INFO6255 Spring 2025
 
-Northeastern University
-
-📌 LinkedIn/GitHub Project Title
-Flight Reservation Test Automation | UFT | Data-Driven Framework
-
-Let me know if you'd like this packaged into a ZIP with the README included! ​​
